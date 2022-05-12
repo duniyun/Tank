@@ -9,7 +9,7 @@ namespace Tank
       
         static void Main(string[] args)
         {
-            Console.WriteLine("duniyun!");
+            Console.WriteLine("Hello World!");
         }
         
     }
